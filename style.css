@@ -2,31 +2,27 @@
 GLOBAL
 ======================================== */
 
-:root {
-
+:root :root {
 
 --background: #070b16;
-
 --background-light: #0d1424;
-
 --card: #131c2d;
-
 --card-hover: #182238;
 
---green: #8b5cf6;
+/* Green accent colors */
 
---green-light: #a78bfa;
+--purple: #22c55e;
+--purple-light: #4ade80;
+
+/* Blue accent */
 
 --blue: #3b82f6;
-
 --text: #f8fafc;
-
 --text-muted: #aab3c5;
-
 --border: rgba(255,255,255,0.09);
-
-
+  
 }
+
 
 * {
 
